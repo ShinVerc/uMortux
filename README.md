@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <img src="src/assets/logo.png" alt="uMortux Logo" width="120" />
 
