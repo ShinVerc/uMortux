@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/assets/logo.png" alt="uMortux Logo" width="120" />
+  <img src="assets/logo.png" alt="uMortux Logo" width="120" />
 
   <h1>uMortux</h1>
 
